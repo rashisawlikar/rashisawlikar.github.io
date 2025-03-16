@@ -1,0 +1,24 @@
+{
+    "name": "John Doe",
+    "title": "Software Engineer",
+    "contact": {
+      "email": "john.doe@example.com",
+      "phone": "+1234567890"
+    },
+    "education": [
+      {
+        "degree": "B.Sc. in Computer Science",
+        "institution": "University of Example",
+        "year": "2020"
+      }
+    ],
+    "experience": [
+      {
+        "position": "Software Engineer",
+        "company": "Tech Company",
+        "years": "2021-Present",
+        "description": "Developing web applications."
+      }
+    ],
+    "skills": ["JavaScript", "HTML", "CSS", "React", "Node.js"]
+  }
