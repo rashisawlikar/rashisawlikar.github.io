@@ -21,7 +21,7 @@ export default function Banner(): React.JSX.Element {
           <div className="contact-card relative mt-14 overflow-hidden rounded-3xl bg-[#fffaf7] px-6 pb-6 pt-7 text-base text-[#76596a] shadow-[0_18px_42px_rgba(183,97,134,0.2)]">
             <div className="relative z-10 grid gap-4 sm:grid-cols-2">
               <a href="mailto:rashirahulsawlikar@gmail.com" className="transition-colors hover:text-[#b76186]"><span className="mr-2 text-[#b76186]" aria-hidden="true">@</span>rashirahulsawlikar@gmail.com</a>
-              <a href="tel:+4915211069292" className="transition-colors hover:text-[#b76186]"><Phone className="mr-2 h-4 w-4 text-[#b76186]" aria-hidden="true" />(+49) 15211069292</a>
+              <a href="tel:+4915211069292" className="transition-colors hover:text-[#b76186] inline-flex items-center"><Phone className="mr-2 h-4 w-4 text-[#b76186]" aria-hidden="true" />(+49) 15211069292</a>
               <a href="https://www.linkedin.com/in/rashi-rahul-sawlikar-b6a330152" target="_blank" rel="noreferrer" className="transition-colors hover:text-[#b76186]"><span className="mr-2 inline-flex h-4 w-4 items-center justify-center rounded-sm bg-[#b76186] text-[10px] font-bold text-white" aria-hidden="true">in</span>LinkedIn</a>
               <div className="flex items-center"><MapPin className="mr-2 h-4 w-4 text-[#b76186]" />Based in NRW, Germany</div></div>
             <ShineBorder shineColor={["#e7b7c8", "#b76186", "#c9829e"]} duration={14} borderWidth={1} />
