@@ -1,3 +1,4 @@
+"use client";
 import Image from "next/image";
 import VideoIntro from "./VideoIntro";
 import { ShineBorder } from "@/components/ui/shine-border";
