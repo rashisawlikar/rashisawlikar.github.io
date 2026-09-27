@@ -22,7 +22,7 @@ export default function Banner(): React.JSX.Element {
               <a href="mailto:rashirahulsawlikar@gmail.com" className="transition-colors hover:text-[#b76186]"><span className="mr-2 text-[#b76186]" aria-hidden="true">@</span>rashirahulsawlikar@gmail.com</a>
               <a href="tel:+4915211069292" className="transition-colors hover:text-[#b76186]"><span className="mr-2 text-[#b76186]" aria-hidden="true">☎</span>(+49) 15211069292</a>
               <a href="https://www.linkedin.com/in/rashi-rahul-sawlikar-b6a330152" target="_blank" rel="noreferrer" className="transition-colors hover:text-[#b76186]"><span className="mr-2 inline-flex h-4 w-4 items-center justify-center rounded-sm bg-[#b76186] text-[10px] font-bold text-white" aria-hidden="true">in</span>LinkedIn</a>
-              <div className="flex items-center"><MapPin className="mr-2 h-4 w-4 text-[#b76186]" />Based in NRW, Germany</div>
+              <div className="flex items-center"><MapPin className="mr-2 h-4 w-4 text-[#b76186]" />Based in NRW, Germany</div></div>
             <ShineBorder shineColor={["#e7b7c8", "#b76186", "#c9829e"]} duration={14} borderWidth={1} />
           </div>
         </div>
